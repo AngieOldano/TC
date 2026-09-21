@@ -326,3 +326,4 @@ Las computadoras actuales son el resultado directo de fusionar las ideas de esto
 *Fuente: Wikipedia, "Computador de programa almacenado" (https://es.wikipedia.org/wiki/Computador_de_programa_almacenado) - Wikipedia, "Arquitectura de von Neumann" (https://es.wikipedia.org/wiki/Arquitectura_de_von_Neumann) - Wikipedia, "Arquitectura Harvard" (https://es.wikipedia.org/wiki/Arquitectura_Harvard).*
 
 
+

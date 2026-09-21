@@ -1,5 +1,5 @@
 registros = ["000000000", "000101010", "001010100", "010001000", "010100010"]
-w = "11100"
+w = "111"
 print("Cadena de entrada:", w)
 estado = "00"    # estado inicial 
 finales = ["10"] # estados finales
