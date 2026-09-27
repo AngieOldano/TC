@@ -50,7 +50,7 @@
 			<to>2</to>&#13;
 			<read/>&#13;
 			<write/>&#13;
-			<move>S</move>&#13;
+			<move>R</move>&#13;
 		</transition>&#13;
 	</automaton>&#13;
 </structure>
